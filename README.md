@@ -1,1 +1,11 @@
-# NaxLabs
+
+  # สร้างเว็บตามต้นฉบับ
+
+  This is a code bundle for สร้างเว็บตามต้นฉบับ. The original project is available at https://www.figma.com/design/DLhwlOe0oVANrUkoqESD9k/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
